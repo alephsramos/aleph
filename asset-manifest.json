@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aleph/static/css/main.b5191601.css",
+    "main.js": "/aleph/static/js/main.c19ead80.js",
+    "static/media/aleph-perfil.svg": "/aleph/static/media/aleph-perfil.7394c4543c378ce712de2843b84140c5.svg",
+    "static/media/aleph-complete.svg": "/aleph/static/media/aleph-complete.0b4a5868767a1772ee7b996460023878.svg",
+    "static/media/aleph-icon-black-back-none.svg": "/aleph/static/media/aleph-icon-black-back-none.3a952c7884651599a7cef1fc625350ad.svg",
+    "index.html": "/aleph/index.html",
+    "main.b5191601.css.map": "/aleph/static/css/main.b5191601.css.map",
+    "main.c19ead80.js.map": "/aleph/static/js/main.c19ead80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5191601.css",
+    "static/js/main.c19ead80.js"
+  ]
+}
