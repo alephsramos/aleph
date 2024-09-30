@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/aleph/static/css/main.d8b20db9.css",
-    "main.js": "/aleph/static/js/main.9061b7ec.js",
+    "main.css": "/aleph/static/css/main.14b98eba.css",
+    "main.js": "/aleph/static/js/main.d8993c72.js",
     "static/media/aleph-perfil.svg": "/aleph/static/media/aleph-perfil.7394c4543c378ce712de2843b84140c5.svg",
-    "static/media/home.jpg": "/aleph/static/media/home.21aa9fea0261c07c2123.jpg",
+    "static/media/1.jpg": "/aleph/static/media/1.f291202eea42e2c35b53.jpg",
+    "static/media/3.jpg": "/aleph/static/media/3.317bb8f320ed90a800c7.jpg",
+    "static/media/2.jpg": "/aleph/static/media/2.d55803793eb71a657eff.jpg",
     "static/media/homeMobile.png": "/aleph/static/media/homeMobile.cec39bd6b74d67fdb880.png",
     "static/media/aleph-complete.svg": "/aleph/static/media/aleph-complete.0b4a5868767a1772ee7b996460023878.svg",
     "static/media/aleph-icon-black-back-none.svg": "/aleph/static/media/aleph-icon-black-back-none.3a952c7884651599a7cef1fc625350ad.svg",
-    "static/media/slick.svg": "/aleph/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/aleph/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/aleph/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/aleph/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/aleph/index.html",
-    "main.d8b20db9.css.map": "/aleph/static/css/main.d8b20db9.css.map",
-    "main.9061b7ec.js.map": "/aleph/static/js/main.9061b7ec.js.map"
+    "main.14b98eba.css.map": "/aleph/static/css/main.14b98eba.css.map",
+    "main.d8993c72.js.map": "/aleph/static/js/main.d8993c72.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8b20db9.css",
-    "static/js/main.9061b7ec.js"
+    "static/css/main.14b98eba.css",
+    "static/js/main.d8993c72.js"
   ]
 }
